@@ -441,6 +441,10 @@ button a {
   .nav div:first-child {
     width: 200px;
   }
+  
+  .nav div:last-child {
+    width: 80px;
+  }
   .nav .fa-brands{
     margin-right: 5px;
   }
